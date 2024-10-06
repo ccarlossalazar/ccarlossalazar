@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋🏾, I'm Carlos Salazar</h1>
 <h3 align="center">Aspiring frontend Swift developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccarlossalazar&label=Profile%20views&color=0e75b6&style=flat" alt="ccarlossalazar" /> </p>
 
