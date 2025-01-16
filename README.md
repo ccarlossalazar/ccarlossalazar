@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccarlossalazar&label=Profile%20views&color=0e75b6&style=flat" alt="ccarlossalazar" /> </p>
 
-- 🔭 I’m currently working on **100 Days of SwiftUI**
+- 🔭 I’m currently working on **IT Fundamentals**
 
-- 💬 Ask me about **IOS, Swift, SwiftUI, Forex**
+- 💬 Ask me about **IOS, Swift, Forex, Terminal**
 
 - 📫 How to reach me **cdsalazar2@gmail.com**
 
